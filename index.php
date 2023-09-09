@@ -8,5 +8,6 @@
   </head>
   <body>
     <div>Init</div>
+    <?php echo 'php works' ?>
   </body>
 </html>
